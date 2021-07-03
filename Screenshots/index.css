@@ -1,0 +1,47 @@
+code {
+  font-family: verdana;
+}
+
+.backtrack-header {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.copy-right {
+  margin-top: 0;
+}
+
+.algo-code {
+  font-family: verdana;
+}
+
+.algo-code-bold {
+  font-family: verdana;
+  font-weight: bold;
+}
+
+.search-tree-ol {
+  margin-left: 0;
+}
+
+.mapIsOK {
+  margin: 0;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.timing-info-head {
+  text-align: left;
+  font: normal;
+}
+
+.output-sno {
+  font-style: italic;
+  color: blue;
+  font-family: verdana;
+}
+
+.output {
+  font-family: verdana;
+  font-weight: bold;
+}
